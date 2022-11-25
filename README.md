@@ -7,6 +7,9 @@ Geração de uma onda distorcida com harmônicas armazenar informções no arqui
 Integrantes:
 
 #Adriel Luiz Agostini
+
 #Alex Augusto Rosa Ramos
+
 #Gabriel Fernando Deroldo Bis
+
 #Rafael de Mello Castro Bacha
